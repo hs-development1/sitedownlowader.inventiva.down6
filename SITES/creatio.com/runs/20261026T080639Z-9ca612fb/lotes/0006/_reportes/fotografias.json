@@ -1,0 +1,272 @@
+[
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/retail/01-retail-man@1x.png.webp",
+    "path": "recursos/5c/5cfe96ac49039a53de9d-01-retail-man_1x.png.webp",
+    "bytes": 29218,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/retail/01-retail-man@2x.png.webp",
+    "path": "recursos/f2/f2b9fb73a2eb0a43b957-01-retail-man_2x.png.webp",
+    "bytes": 87072,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/retail/01-retail-man@1x.png.webp",
+    "path": "recursos/19/198f3bf4d53f87ada35c-01-retail-man_1x.png.webp",
+    "bytes": 362182,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/retail/01-retail-man@2x.png.webp",
+    "path": "recursos/41/417a2bdf0b3031169056-01-retail-man_2x.png.webp",
+    "bytes": 1385054,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/retail/03-retail-screen-base@1x_0.png.webp",
+    "path": "recursos/06/065b2628c9e981be3f74-03-retail-screen-base_1x_0.png.webp",
+    "bytes": 17080,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/cpg/01-cpg-base-screen@1x.png.webp",
+    "path": "recursos/04/04a21a4c6e15ed51fc53-01-cpg-base-screen_1x.png.webp",
+    "bytes": 41502,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/cpg/01-cpg-base-screen@2x.png.webp",
+    "path": "recursos/f8/f89692f5462f7d3856a0-01-cpg-base-screen_2x.png.webp",
+    "bytes": 114452,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/cpg/01-cpg-base-screen@1x.png.webp",
+    "path": "recursos/12/12e681ab08cd49fa9cec-01-cpg-base-screen_1x.png.webp",
+    "bytes": 461550,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/cpg/01-cpg-base-screen@2x.png.webp",
+    "path": "recursos/fd/fd4e0e1e112ec00a710c-01-cpg-base-screen_2x.png.webp",
+    "bytes": 1452500,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/cpg/03-cpg-base-screen@1x.png.webp",
+    "path": "recursos/e0/e0512b3bc06d55823d0f-03-cpg-base-screen_1x.png.webp",
+    "bytes": 19466,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/cpg/03-cpg-base-screen@2x.png.webp",
+    "path": "recursos/66/66c46d67a0a72438a97f-03-cpg-base-screen_2x.png.webp",
+    "bytes": 52196,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/cpg/03-cpg-base-screen@1x.png.webp",
+    "path": "recursos/ab/abfdb203218304d2e5c5-03-cpg-base-screen_1x.png.webp",
+    "bytes": 104610,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/pharma/1-pharma-screen-base@1x.png.webp",
+    "path": "recursos/d5/d55ce0e520bdda839c60-1-pharma-screen-base_1x.png.webp",
+    "bytes": 24346,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/pharma/1-pharma-screen-base@2x_0.png.webp",
+    "path": "recursos/13/13197f26e8d00dc9fd9f-1-pharma-screen-base_2x_0.png.webp",
+    "bytes": 64274,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/pharma/1-pharma-screen-base@1x.png.webp",
+    "path": "recursos/8c/8c48b5278888f4967ad1-1-pharma-screen-base_1x.png.webp",
+    "bytes": 131466,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/pharma/1-pharma-screen-base@2x_0.png.webp",
+    "path": "recursos/28/283d4944b32ea1e5036e-1-pharma-screen-base_2x_0.png.webp",
+    "bytes": 384368,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/pharma/3-pharma-screen-base@1x.png.webp",
+    "path": "recursos/ad/ada7d58148b90cf45bd1-3-pharma-screen-base_1x.png.webp",
+    "bytes": 18266,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/pharma/3-pharma-screen-base@2x_0.png.webp",
+    "path": "recursos/54/54aeed41543d30b14b07-3-pharma-screen-base_2x_0.png.webp",
+    "bytes": 48748,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/pharma/3-pharma-screen-base@1x.png.webp",
+    "path": "recursos/66/6628e6b39df44d609a24-3-pharma-screen-base_1x.png.webp",
+    "bytes": 124160,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/pharma/3-pharma-screen-base@2x_0.png.webp",
+    "path": "recursos/45/45c25f97ce3f81eb87ce-3-pharma-screen-base_2x_0.png.webp",
+    "bytes": 347308,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/telecom/1-telecom-model@1x.png.webp",
+    "path": "recursos/63/638d1ed0e56f096cd73d-1-telecom-model_1x.png.webp",
+    "bytes": 34516,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/telecom/1-telecom-model@2x.png.webp",
+    "path": "recursos/67/6718ba96ecf1086b51b6-1-telecom-model_2x.png.webp",
+    "bytes": 92946,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/telecom/1-telecom-model@1x.png.webp",
+    "path": "recursos/30/304cdb5f460b23bb5641-1-telecom-model_1x.png.webp",
+    "bytes": 468694,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/telecom/1-telecom-model@2x.png.webp",
+    "path": "recursos/f0/f046bb61c793837649bb-1-telecom-model_2x.png.webp",
+    "bytes": 1752254,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/telecom/3-telecom-screen-base@1x_0.png.webp",
+    "path": "recursos/fe/fe175496d76af97da922-3-telecom-screen-base_1x_0.png.webp",
+    "bytes": 17884,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/telecom/3-telecom-screen-base@2x_0.png.webp",
+    "path": "recursos/7a/7a5498aa890179cada75-3-telecom-screen-base_2x_0.png.webp",
+    "bytes": 48106,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/telecom/3-telecom-screen-base@1x_0.png.webp",
+    "path": "recursos/b6/b6bfc3826046adde3141-3-telecom-screen-base_1x_0.png.webp",
+    "bytes": 121992,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/telecom/3-telecom-screen-base@2x_0.png.webp",
+    "path": "recursos/ef/eff4b8d3588bc64b3917-3-telecom-screen-base_2x_0.png.webp",
+    "bytes": 337432,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/telecom/4-telecom-screen-base@1x_0.png.webp",
+    "path": "recursos/53/5363470fa34bb731bca9-4-telecom-screen-base_1x_0.png.webp",
+    "bytes": 21544,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/public_sector/1-public-base-man@1x.png.webp",
+    "path": "recursos/82/82cfe0f00d18c25ce0c2-1-public-base-man_1x.png.webp",
+    "bytes": 34782,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/public_sector/1-public-base-man@2x.png.webp",
+    "path": "recursos/05/052abe207e592c2760dd-1-public-base-man_2x.png.webp",
+    "bytes": 93966,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/public_sector/1-public-base-man@1x.png.webp",
+    "path": "recursos/50/504b4ab092349162fe25-1-public-base-man_1x.png.webp",
+    "bytes": 558588,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/public_sector/1-public-base-man@2x.png.webp",
+    "path": "recursos/71/7129118416da1b9fe8e0-1-public-base-man_2x.png.webp",
+    "bytes": 1582122,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/public_sector/3-public-base-screen@1x.png.webp",
+    "path": "recursos/16/162d4aeb533f529da3d7-3-public-base-screen_1x.png.webp",
+    "bytes": 26156,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/public_sector/3-public-base-screen@2x.png.webp",
+    "path": "recursos/42/425d27578019c2b53f9b-3-public-base-screen_2x.png.webp",
+    "bytes": 74222,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/public_sector/3-public-base-screen@1x.png.webp",
+    "path": "recursos/81/81e96232d869b0b64825-3-public-base-screen_1x.png.webp",
+    "bytes": 176774,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/energy-and-utilities/main-x1.png.webp",
+    "path": "recursos/ff/ffdc194670c57ca83a03-main-x1.png.webp",
+    "bytes": 13144,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/energy-and-utilities/main-x2.png.webp",
+    "path": "recursos/fa/faef519a30770df93ef0-main-x2.png.webp",
+    "bytes": 35986,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/energy-and-utilities/main-x1.png.webp",
+    "path": "recursos/0a/0ac6b5b24f0cac3f2a5f-main-x1.png.webp",
+    "bytes": 337842,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/energy-and-utilities/main-x2.png.webp",
+    "path": "recursos/ef/eff540472cb0c428d413-main-x2.png.webp",
+    "bytes": 1126100,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/energy-and-utilities/1-x1.png.webp",
+    "path": "recursos/e4/e47c2bcd0378ce509e23-1-x1.png.webp",
+    "bytes": 8728,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/energy-and-utilities/1-x2.png.webp",
+    "path": "recursos/31/310e2c0e3bc3b47daf09-1-x2.png.webp",
+    "bytes": 24364,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/energy-and-utilities/1-x1.png.webp",
+    "path": "recursos/a9/a9c3bc47ee8bf86714a4-1-x1.png.webp",
+    "bytes": 106452,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/energy-and-utilities/1-x2.png.webp",
+    "path": "recursos/30/30059a0402c2850bf5d0-1-x2.png.webp",
+    "bytes": 294462,
+    "property_url": null
+  },
+  {
+    "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/energy-and-utilities/2-x1.png.webp",
+    "path": "recursos/25/256233047b27e9197495-2-x1.png.webp",
+    "bytes": 7032,
+    "property_url": null
+  }
+]

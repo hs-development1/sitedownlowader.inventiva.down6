@@ -1,0 +1,823 @@
+{
+  "sitio": "https://creatio.com/",
+  "fecha": "2026-10-26T08:23:12.966082+00:00",
+  "paginas": [
+    "https://www.creatio.com/industries/retail",
+    "https://www.creatio.com/industries/cpg",
+    "https://www.creatio.com/industries/pharma",
+    "https://www.creatio.com/industries/telecom",
+    "https://www.creatio.com/industries/public-sector",
+    "https://www.creatio.com/industries/energy-and-utilities",
+    "https://www.creatio.com/industries/media-and-advertising",
+    "https://www.creatio.com/customers",
+    "https://www.creatio.com/customers/customer-success",
+    "https://www.creatio.com/company/recognition"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 80,
+  "fotografias_descargadas": 45,
+  "bytes_fotografias": 12665906,
+  "recursos_pendientes": 668,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 14680869,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": false,
+  "advertencia_navegador": "",
+  "recursos": [
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css?delta=1&language=en&theme=creatio&include=eJxtkltuxSAMRDcUkiVFDri5bgFHtiM1XX2dSxVVgi_wGY81PGIG1WvZQHGKbV9QFXbUKbLgErkcXLGazlEQjDiEgvUMG9SK0pqSnAfkGT7hu4HKUiDTjw9tpmVjNjWBYy1UH4oZfZgFiG5LxL0S10z1q8etXgX3kesAMU-nnSCYwTC5T_mUiH2H6Zqw8IgPkzgvQHVVF7BPcsuYCEaCYrRBeg1U070-wp55g_yUL4R0X_1f6d2nX-3VAT-lAeV__MPfxZ3KkSC3YO9T6dKj2V4eZ9JLDcv7h_wCdq7Y0w",
+      "archivo": "recursos/71/71b0f63e2819eb6c2716-css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Hll3-Op-DURNnQrIzaxy-wjgHnk-lX-U4zo_rNFMFIo.css?delta=2&language=en&theme=creatio&include=eJxtkltuxSAMRDcUkiVFDri5bgFHtiM1XX2dSxVVgi_wGY81PGIG1WvZQHGKbV9QFXbUKbLgErkcXLGazlEQjDiEgvUMG9SK0pqSnAfkGT7hu4HKUiDTjw9tpmVjNjWBYy1UH4oZfZgFiG5LxL0S10z1q8etXgX3kesAMU-nnSCYwTC5T_mUiH2H6Zqw8IgPkzgvQHVVF7BPcsuYCEaCYrRBeg1U070-wp55g_yUL4R0X_1f6d2nX-3VAT-lAeV__MPfxZ3KkSC3YO9T6dKj2V4eZ9JLDcv7h_wCdq7Y0w",
+      "archivo": "recursos/9f/9f618149dc9269fbbb3c-css_Hll3-Op-DURNnQrIzaxy-wjgHnk-lX-U4zo_rNFMFIo.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css?delta=4&language=en&theme=creatio&include=eJxtkltuxSAMRDcUkiVFDri5bgFHtiM1XX2dSxVVgi_wGY81PGIG1WvZQHGKbV9QFXbUKbLgErkcXLGazlEQjDiEgvUMG9SK0pqSnAfkGT7hu4HKUiDTjw9tpmVjNjWBYy1UH4oZfZgFiG5LxL0S10z1q8etXgX3kesAMU-nnSCYwTC5T_mUiH2H6Zqw8IgPkzgvQHVVF7BPcsuYCEaCYrRBeg1U070-wp55g_yUL4R0X_1f6d2nX-3VAT-lAeV__MPfxZ3KkSC3YO9T6dKj2V4eZ9JLDcv7h_wCdq7Y0w",
+      "archivo": "recursos/f3/f3c058914cf9a0fe88fe-css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_zdTebaHTjbCu_rmA_KPEt3L9r8t_lQQnt0XQfIBr3yo.css?delta=6&language=en&theme=creatio&include=eJxtkltuxSAMRDcUkiVFDri5bgFHtiM1XX2dSxVVgi_wGY81PGIG1WvZQHGKbV9QFXbUKbLgErkcXLGazlEQjDiEgvUMG9SK0pqSnAfkGT7hu4HKUiDTjw9tpmVjNjWBYy1UH4oZfZgFiG5LxL0S10z1q8etXgX3kesAMU-nnSCYwTC5T_mUiH2H6Zqw8IgPkzgvQHVVF7BPcsuYCEaCYrRBeg1U070-wp55g_yUL4R0X_1f6d2nX-3VAT-lAeV__MPfxZ3KkSC3YO9T6dKj2V4eZ9JLDcv7h_wCdq7Y0w",
+      "archivo": "recursos/bb/bb55b1d4ccb4f3516317-css_zdTebaHTjbCu_rmA_KPEt3L9r8t_lQQnt0XQfIBr3yo.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css?delta=7&language=en&theme=creatio&include=eJxtkltuxSAMRDcUkiVFDri5bgFHtiM1XX2dSxVVgi_wGY81PGIG1WvZQHGKbV9QFXbUKbLgErkcXLGazlEQjDiEgvUMG9SK0pqSnAfkGT7hu4HKUiDTjw9tpmVjNjWBYy1UH4oZfZgFiG5LxL0S10z1q8etXgX3kesAMU-nnSCYwTC5T_mUiH2H6Zqw8IgPkzgvQHVVF7BPcsuYCEaCYrRBeg1U070-wp55g_yUL4R0X_1f6d2nX-3VAT-lAeV__MPfxZ3KkSC3YO9T6dKj2V4eZ9JLDcv7h_wCdq7Y0w",
+      "archivo": "recursos/77/7762c614eaeb35ba463f-css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/retail/01-retail-man@1x.png.webp",
+      "archivo": "recursos/5c/5cfe96ac49039a53de9d-01-retail-man_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/retail/01-retail-man@2x.png.webp",
+      "archivo": "recursos/f2/f2b9fb73a2eb0a43b957-01-retail-man_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/retail/01-retail-man@1x.png.webp",
+      "archivo": "recursos/19/198f3bf4d53f87ada35c-01-retail-man_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/retail/01-retail-man@2x.png.webp",
+      "archivo": "recursos/41/417a2bdf0b3031169056-01-retail-man_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/retail/03-retail-screen-base@1x_0.png.webp",
+      "archivo": "recursos/06/065b2628c9e981be3f74-03-retail-screen-base_1x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/page/sites/landings/files/pdf/bpmonline_roi_case_study_-_hersheys_ice_cream.pdf",
+      "archivo": "recursos/22/220ad884a6253bfbd843-bpmonline_roi_case_study_-_hersheys_ice_cream.pdf"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css?delta=1&language=en&theme=creatio&include=eJxtkltuxSAMRDcUkiUhx7i5tIARdqSmq69zqaJK8AU-47GGByYQubYdhBbs-0wicJAsyI025Fy5UFFZsRFoZOcyldPtUAq13hTaWSGt8AnfHRRuGVL8saHdtO3MKtqg-hzLQymRDVMHaLYQeVTQp1i-Rtxr3-iYuSo0tXQyCI0SKAXzCZ8NaexQ8YEyz_g0ifEMsXgxgcYkt0whwkwQQp2kFxdLuNdHOBLvkJ7yRRDuq_8rrfu0q70G4LEe_-CHPYrZhDFC6qneR5JtRKu-LMsilyjl9_f4BeWT14w",
+      "archivo": "recursos/71/71b0f63e2819eb6c2716-css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Hll3-Op-DURNnQrIzaxy-wjgHnk-lX-U4zo_rNFMFIo.css?delta=2&language=en&theme=creatio&include=eJxtkltuxSAMRDcUkiUhx7i5tIARdqSmq69zqaJK8AU-47GGByYQubYdhBbs-0wicJAsyI025Fy5UFFZsRFoZOcyldPtUAq13hTaWSGt8AnfHRRuGVL8saHdtO3MKtqg-hzLQymRDVMHaLYQeVTQp1i-Rtxr3-iYuSo0tXQyCI0SKAXzCZ8NaexQ8YEyz_g0ifEMsXgxgcYkt0whwkwQQp2kFxdLuNdHOBLvkJ7yRRDuq_8rrfu0q70G4LEe_-CHPYrZhDFC6qneR5JtRKu-LMsilyjl9_f4BeWT14w",
+      "archivo": "recursos/9f/9f618149dc9269fbbb3c-css_Hll3-Op-DURNnQrIzaxy-wjgHnk-lX-U4zo_rNFMFIo.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css?delta=4&language=en&theme=creatio&include=eJxtkltuxSAMRDcUkiUhx7i5tIARdqSmq69zqaJK8AU-47GGByYQubYdhBbs-0wicJAsyI025Fy5UFFZsRFoZOcyldPtUAq13hTaWSGt8AnfHRRuGVL8saHdtO3MKtqg-hzLQymRDVMHaLYQeVTQp1i-Rtxr3-iYuSo0tXQyCI0SKAXzCZ8NaexQ8YEyz_g0ifEMsXgxgcYkt0whwkwQQp2kFxdLuNdHOBLvkJ7yRRDuq_8rrfu0q70G4LEe_-CHPYrZhDFC6qneR5JtRKu-LMsilyjl9_f4BeWT14w",
+      "archivo": "recursos/8d/8d1159e591a13b31a67f-css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_o_yC-Jn1ndwyWTRnNSJBVM3atZDgyUbkgEJHlxpTuRk.css?delta=6&language=en&theme=creatio&include=eJxtkltuxSAMRDcUkiUhx7i5tIARdqSmq69zqaJK8AU-47GGByYQubYdhBbs-0wicJAsyI025Fy5UFFZsRFoZOcyldPtUAq13hTaWSGt8AnfHRRuGVL8saHdtO3MKtqg-hzLQymRDVMHaLYQeVTQp1i-Rtxr3-iYuSo0tXQyCI0SKAXzCZ8NaexQ8YEyz_g0ifEMsXgxgcYkt0whwkwQQp2kFxdLuNdHOBLvkJ7yRRDuq_8rrfu0q70G4LEe_-CHPYrZhDFC6qneR5JtRKu-LMsilyjl9_f4BeWT14w",
+      "archivo": "recursos/e7/e7195f6817c68fde37dd-css_o_yC-Jn1ndwyWTRnNSJBVM3atZDgyUbkgEJHlxpTuRk.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css?delta=7&language=en&theme=creatio&include=eJxtkltuxSAMRDcUkiUhx7i5tIARdqSmq69zqaJK8AU-47GGByYQubYdhBbs-0wicJAsyI025Fy5UFFZsRFoZOcyldPtUAq13hTaWSGt8AnfHRRuGVL8saHdtO3MKtqg-hzLQymRDVMHaLYQeVTQp1i-Rtxr3-iYuSo0tXQyCI0SKAXzCZ8NaexQ8YEyz_g0ifEMsXgxgcYkt0whwkwQQp2kFxdLuNdHOBLvkJ7yRRDuq_8rrfu0q70G4LEe_-CHPYrZhDFC6qneR5JtRKu-LMsilyjl9_f4BeWT14w",
+      "archivo": "recursos/77/7762c614eaeb35ba463f-css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/cpg/01-cpg-base-screen@1x.png.webp",
+      "archivo": "recursos/04/04a21a4c6e15ed51fc53-01-cpg-base-screen_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/cpg/01-cpg-base-screen@2x.png.webp",
+      "archivo": "recursos/f8/f89692f5462f7d3856a0-01-cpg-base-screen_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/cpg/01-cpg-base-screen@1x.png.webp",
+      "archivo": "recursos/12/12e681ab08cd49fa9cec-01-cpg-base-screen_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/cpg/01-cpg-base-screen@2x.png.webp",
+      "archivo": "recursos/fd/fd4e0e1e112ec00a710c-01-cpg-base-screen_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/cpg/03-cpg-base-screen@1x.png.webp",
+      "archivo": "recursos/e0/e0512b3bc06d55823d0f-03-cpg-base-screen_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/cpg/03-cpg-base-screen@2x.png.webp",
+      "archivo": "recursos/66/66c46d67a0a72438a97f-03-cpg-base-screen_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/cpg/03-cpg-base-screen@1x.png.webp",
+      "archivo": "recursos/ab/abfdb203218304d2e5c5-03-cpg-base-screen_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css?delta=1&language=en&theme=creatio&include=eJxtkmuOxSAIhTfUx5IMIrd1rkojNJnO6odeJ80k-kv5DhCOiAlErtWD0ITtnkkENpIJudKKnA8uVFQWrAQaeZ4zlXP2UArVlhTqeUBa4Au-GyhcM6T4Y01b0eqZVbTC4XIsD6VE1kxnQCsLkXvFU6FXVOkEdCmWd49b7Cpto3Z4inKm6uRENKNdwgFVzVcvVEqgFKyx8FmR-gwV57cRDZR5xIcGjGeIxYkJ1Bu4ZQoRRoIQ6sC0zLGE-3yELbGH9IQ7QbhX-Rdatr1SvTrgjh1sr__4y_ZslcIYIbXBPq5k7dGiu40zySVK-fPjfgEd1ff_",
+      "archivo": "recursos/71/71b0f63e2819eb6c2716-css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_jyhQpB5LFvnaHRq6SFQWbahfXYZNMu_wuWhMNqUqkk8.css?delta=2&language=en&theme=creatio&include=eJxtkmuOxSAIhTfUx5IMIrd1rkojNJnO6odeJ80k-kv5DhCOiAlErtWD0ITtnkkENpIJudKKnA8uVFQWrAQaeZ4zlXP2UArVlhTqeUBa4Au-GyhcM6T4Y01b0eqZVbTC4XIsD6VE1kxnQCsLkXvFU6FXVOkEdCmWd49b7Cpto3Z4inKm6uRENKNdwgFVzVcvVEqgFKyx8FmR-gwV57cRDZR5xIcGjGeIxYkJ1Bu4ZQoRRoIQ6sC0zLGE-3yELbGH9IQ7QbhX-Rdatr1SvTrgjh1sr__4y_ZslcIYIbXBPq5k7dGiu40zySVK-fPjfgEd1ff_",
+      "archivo": "recursos/1d/1d272e6c9d9ed716c7ae-css_jyhQpB5LFvnaHRq6SFQWbahfXYZNMu_wuWhMNqUqkk8.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css?delta=4&language=en&theme=creatio&include=eJxtkmuOxSAIhTfUx5IMIrd1rkojNJnO6odeJ80k-kv5DhCOiAlErtWD0ITtnkkENpIJudKKnA8uVFQWrAQaeZ4zlXP2UArVlhTqeUBa4Au-GyhcM6T4Y01b0eqZVbTC4XIsD6VE1kxnQCsLkXvFU6FXVOkEdCmWd49b7Cpto3Z4inKm6uRENKNdwgFVzVcvVEqgFKyx8FmR-gwV57cRDZR5xIcGjGeIxYkJ1Bu4ZQoRRoIQ6sC0zLGE-3yELbGH9IQ7QbhX-Rdatr1SvTrgjh1sr__4y_ZslcIYIbXBPq5k7dGiu40zySVK-fPjfgEd1ff_",
+      "archivo": "recursos/8d/8d1159e591a13b31a67f-css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_AIGHrJiAMm_NBJsNgh5D5UQ_gZETPp_bnlF01SVTXAg.css?delta=6&language=en&theme=creatio&include=eJxtkmuOxSAIhTfUx5IMIrd1rkojNJnO6odeJ80k-kv5DhCOiAlErtWD0ITtnkkENpIJudKKnA8uVFQWrAQaeZ4zlXP2UArVlhTqeUBa4Au-GyhcM6T4Y01b0eqZVbTC4XIsD6VE1kxnQCsLkXvFU6FXVOkEdCmWd49b7Cpto3Z4inKm6uRENKNdwgFVzVcvVEqgFKyx8FmR-gwV57cRDZR5xIcGjGeIxYkJ1Bu4ZQoRRoIQ6sC0zLGE-3yELbGH9IQ7QbhX-Rdatr1SvTrgjh1sr__4y_ZslcIYIbXBPq5k7dGiu40zySVK-fPjfgEd1ff_",
+      "archivo": "recursos/75/75b89e351aacd3d9e795-css_AIGHrJiAMm_NBJsNgh5D5UQ_gZETPp_bnlF01SVTXAg.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css?delta=7&language=en&theme=creatio&include=eJxtkmuOxSAIhTfUx5IMIrd1rkojNJnO6odeJ80k-kv5DhCOiAlErtWD0ITtnkkENpIJudKKnA8uVFQWrAQaeZ4zlXP2UArVlhTqeUBa4Au-GyhcM6T4Y01b0eqZVbTC4XIsD6VE1kxnQCsLkXvFU6FXVOkEdCmWd49b7Cpto3Z4inKm6uRENKNdwgFVzVcvVEqgFKyx8FmR-gwV57cRDZR5xIcGjGeIxYkJ1Bu4ZQoRRoIQ6sC0zLGE-3yELbGH9IQ7QbhX-Rdatr1SvTrgjh1sr__4y_ZslcIYIbXBPq5k7dGiu40zySVK-fPjfgEd1ff_",
+      "archivo": "recursos/77/7762c614eaeb35ba463f-css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/pharma/1-pharma-screen-base@1x.png.webp",
+      "archivo": "recursos/d5/d55ce0e520bdda839c60-1-pharma-screen-base_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/pharma/1-pharma-screen-base@2x_0.png.webp",
+      "archivo": "recursos/13/13197f26e8d00dc9fd9f-1-pharma-screen-base_2x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/pharma/1-pharma-screen-base@1x.png.webp",
+      "archivo": "recursos/8c/8c48b5278888f4967ad1-1-pharma-screen-base_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/pharma/1-pharma-screen-base@2x_0.png.webp",
+      "archivo": "recursos/28/283d4944b32ea1e5036e-1-pharma-screen-base_2x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/pharma/3-pharma-screen-base@1x.png.webp",
+      "archivo": "recursos/ad/ada7d58148b90cf45bd1-3-pharma-screen-base_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/pharma/3-pharma-screen-base@2x_0.png.webp",
+      "archivo": "recursos/54/54aeed41543d30b14b07-3-pharma-screen-base_2x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/pharma/3-pharma-screen-base@1x.png.webp",
+      "archivo": "recursos/66/6628e6b39df44d609a24-3-pharma-screen-base_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/pharma/3-pharma-screen-base@2x_0.png.webp",
+      "archivo": "recursos/45/45c25f97ce3f81eb87ce-3-pharma-screen-base_2x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css?delta=1&language=en&theme=creatio&include=eJxtUu1uhSAMfSHRRzK1dF42oKatydzTr14WswR-Qc9HOTkBM6heywZKE7Z7IVXYSSdkoQW5HFypms4oBJY4hEL1DBvUStJEUc4D8gyf8N2AylIgpx9f2kzLxmxqAsdaUn1QyuTLLAC6LSbuGVxzql893OZVaB-5DhDzdNoRQhmMovuUT0HqFaZrpMIjfJjE8QKpruoE9UlummKCEaGENkivIdV4nw-xZ94gP-OLIN7V_42uPr3a6x_w4f27QhkT5BbgnV6XHprt5c9OeqlRef-EX4JWzy8",
+      "archivo": "recursos/71/71b0f63e2819eb6c2716-css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Hll3-Op-DURNnQrIzaxy-wjgHnk-lX-U4zo_rNFMFIo.css?delta=2&language=en&theme=creatio&include=eJxtUu1uhSAMfSHRRzK1dF42oKatydzTr14WswR-Qc9HOTkBM6heywZKE7Z7IVXYSSdkoQW5HFypms4oBJY4hEL1DBvUStJEUc4D8gyf8N2AylIgpx9f2kzLxmxqAsdaUn1QyuTLLAC6LSbuGVxzql893OZVaB-5DhDzdNoRQhmMovuUT0HqFaZrpMIjfJjE8QKpruoE9UlummKCEaGENkivIdV4nw-xZ94gP-OLIN7V_42uPr3a6x_w4f27QhkT5BbgnV6XHprt5c9OeqlRef-EX4JWzy8",
+      "archivo": "recursos/9f/9f618149dc9269fbbb3c-css_Hll3-Op-DURNnQrIzaxy-wjgHnk-lX-U4zo_rNFMFIo.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css?delta=4&language=en&theme=creatio&include=eJxtUu1uhSAMfSHRRzK1dF42oKatydzTr14WswR-Qc9HOTkBM6heywZKE7Z7IVXYSSdkoQW5HFypms4oBJY4hEL1DBvUStJEUc4D8gyf8N2AylIgpx9f2kzLxmxqAsdaUn1QyuTLLAC6LSbuGVxzql893OZVaB-5DhDzdNoRQhmMovuUT0HqFaZrpMIjfJjE8QKpruoE9UlummKCEaGENkivIdV4nw-xZ94gP-OLIN7V_42uPr3a6x_w4f27QhkT5BbgnV6XHprt5c9OeqlRef-EX4JWzy8",
+      "archivo": "recursos/8d/8d1159e591a13b31a67f-css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_baPiLC_4wthaxrJg2-UQwcmb1ljjYvKrj0Y4SnuE3Yo.css?delta=6&language=en&theme=creatio&include=eJxtUu1uhSAMfSHRRzK1dF42oKatydzTr14WswR-Qc9HOTkBM6heywZKE7Z7IVXYSSdkoQW5HFypms4oBJY4hEL1DBvUStJEUc4D8gyf8N2AylIgpx9f2kzLxmxqAsdaUn1QyuTLLAC6LSbuGVxzql893OZVaB-5DhDzdNoRQhmMovuUT0HqFaZrpMIjfJjE8QKpruoE9UlummKCEaGENkivIdV4nw-xZ94gP-OLIN7V_42uPr3a6x_w4f27QhkT5BbgnV6XHprt5c9OeqlRef-EX4JWzy8",
+      "archivo": "recursos/d6/d619ae6021c98b1bc9ec-css_baPiLC_4wthaxrJg2-UQwcmb1ljjYvKrj0Y4SnuE3Yo.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css?delta=7&language=en&theme=creatio&include=eJxtUu1uhSAMfSHRRzK1dF42oKatydzTr14WswR-Qc9HOTkBM6heywZKE7Z7IVXYSSdkoQW5HFypms4oBJY4hEL1DBvUStJEUc4D8gyf8N2AylIgpx9f2kzLxmxqAsdaUn1QyuTLLAC6LSbuGVxzql893OZVaB-5DhDzdNoRQhmMovuUT0HqFaZrpMIjfJjE8QKpruoE9UlummKCEaGENkivIdV4nw-xZ94gP-OLIN7V_42uPr3a6x_w4f27QhkT5BbgnV6XHprt5c9OeqlRef-EX4JWzy8",
+      "archivo": "recursos/77/7762c614eaeb35ba463f-css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/telecom/1-telecom-model@1x.png.webp",
+      "archivo": "recursos/63/638d1ed0e56f096cd73d-1-telecom-model_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/telecom/1-telecom-model@2x.png.webp",
+      "archivo": "recursos/67/6718ba96ecf1086b51b6-1-telecom-model_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/telecom/1-telecom-model@1x.png.webp",
+      "archivo": "recursos/30/304cdb5f460b23bb5641-1-telecom-model_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/telecom/1-telecom-model@2x.png.webp",
+      "archivo": "recursos/f0/f046bb61c793837649bb-1-telecom-model_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/telecom/3-telecom-screen-base@1x_0.png.webp",
+      "archivo": "recursos/fe/fe175496d76af97da922-3-telecom-screen-base_1x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/telecom/3-telecom-screen-base@2x_0.png.webp",
+      "archivo": "recursos/7a/7a5498aa890179cada75-3-telecom-screen-base_2x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/telecom/3-telecom-screen-base@1x_0.png.webp",
+      "archivo": "recursos/b6/b6bfc3826046adde3141-3-telecom-screen-base_1x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/telecom/3-telecom-screen-base@2x_0.png.webp",
+      "archivo": "recursos/ef/eff4b8d3588bc64b3917-3-telecom-screen-base_2x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/telecom/4-telecom-screen-base@1x_0.png.webp",
+      "archivo": "recursos/53/5363470fa34bb731bca9-4-telecom-screen-base_1x_0.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css?delta=1&language=en&theme=creatio&include=eJx9UutuhiAMfSHRRyK1dH7sA2poSeaeflUWswSzX9BzaQ8XTCByLCsITdj3mURgI5mQKy3IeedCRWXGSqCRnUOoQVxp-R9NptLcCqVQ7aJQ2w5phk_46kDhmiHFbxvcTcvKrKIVdp9juVFKZM3UAZotRB4Z9CmW9wj32lfanlw7VLV0MhCVEigF8wm3ijQqVHygzE_4YxLDM8TixQgak5w0hQhPhBDqQ3pxsYRzvYkt8QrpLl8E4bz639LUza72GAC_tzVFvObwX_2HPY81EMYIqee7DifLCM36slSTHKKUr8_0A7wm6XY",
+      "archivo": "recursos/71/71b0f63e2819eb6c2716-css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_UIbSqvFFuzuL6gncv659fEQTD5MnuRd3PcmpqN0MMhU.css?delta=2&language=en&theme=creatio&include=eJx9UutuhiAMfSHRRyK1dH7sA2poSeaeflUWswSzX9BzaQ8XTCByLCsITdj3mURgI5mQKy3IeedCRWXGSqCRnUOoQVxp-R9NptLcCqVQ7aJQ2w5phk_46kDhmiHFbxvcTcvKrKIVdp9juVFKZM3UAZotRB4Z9CmW9wj32lfanlw7VLV0MhCVEigF8wm3ijQqVHygzE_4YxLDM8TixQgak5w0hQhPhBDqQ3pxsYRzvYkt8QrpLl8E4bz639LUza72GAC_tzVFvObwX_2HPY81EMYIqee7DifLCM36slSTHKKUr8_0A7wm6XY",
+      "archivo": "recursos/bb/bb0e884901d7923ebfe7-css_UIbSqvFFuzuL6gncv659fEQTD5MnuRd3PcmpqN0MMhU.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css?delta=4&language=en&theme=creatio&include=eJx9UutuhiAMfSHRRyK1dH7sA2poSeaeflUWswSzX9BzaQ8XTCByLCsITdj3mURgI5mQKy3IeedCRWXGSqCRnUOoQVxp-R9NptLcCqVQ7aJQ2w5phk_46kDhmiHFbxvcTcvKrKIVdp9juVFKZM3UAZotRB4Z9CmW9wj32lfanlw7VLV0MhCVEigF8wm3ijQqVHygzE_4YxLDM8TixQgak5w0hQhPhBDqQ3pxsYRzvYkt8QrpLl8E4bz639LUza72GAC_tzVFvObwX_2HPY81EMYIqee7DifLCM36slSTHKKUr8_0A7wm6XY",
+      "archivo": "recursos/78/78d3ea05b7ae02b5dd4f-css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_lea1-jzLys3ZxhqQogTumqo7eytWhJyTPo2usT9D-Z8.css?delta=6&language=en&theme=creatio&include=eJx9UutuhiAMfSHRRyK1dH7sA2poSeaeflUWswSzX9BzaQ8XTCByLCsITdj3mURgI5mQKy3IeedCRWXGSqCRnUOoQVxp-R9NptLcCqVQ7aJQ2w5phk_46kDhmiHFbxvcTcvKrKIVdp9juVFKZM3UAZotRB4Z9CmW9wj32lfanlw7VLV0MhCVEigF8wm3ijQqVHygzE_4YxLDM8TixQgak5w0hQhPhBDqQ3pxsYRzvYkt8QrpLl8E4bz639LUza72GAC_tzVFvObwX_2HPY81EMYIqee7DifLCM36slSTHKKUr8_0A7wm6XY",
+      "archivo": "recursos/d5/d57dccc4eebd020febc0-css_lea1-jzLys3ZxhqQogTumqo7eytWhJyTPo2usT9D-Z8.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css?delta=7&language=en&theme=creatio&include=eJx9UutuhiAMfSHRRyK1dH7sA2poSeaeflUWswSzX9BzaQ8XTCByLCsITdj3mURgI5mQKy3IeedCRWXGSqCRnUOoQVxp-R9NptLcCqVQ7aJQ2w5phk_46kDhmiHFbxvcTcvKrKIVdp9juVFKZM3UAZotRB4Z9CmW9wj32lfanlw7VLV0MhCVEigF8wm3ijQqVHygzE_4YxLDM8TixQgak5w0hQhPhBDqQ3pxsYRzvYkt8QrpLl8E4bz639LUza72GAC_tzVFvObwX_2HPY81EMYIqee7DifLCM36slSTHKKUr8_0A7wm6XY",
+      "archivo": "recursos/77/7762c614eaeb35ba463f-css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/public_sector/1-public-base-man@1x.png.webp",
+      "archivo": "recursos/82/82cfe0f00d18c25ce0c2-1-public-base-man_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/public_sector/1-public-base-man@2x.png.webp",
+      "archivo": "recursos/05/052abe207e592c2760dd-1-public-base-man_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/public_sector/1-public-base-man@1x.png.webp",
+      "archivo": "recursos/50/504b4ab092349162fe25-1-public-base-man_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/public_sector/1-public-base-man@2x.png.webp",
+      "archivo": "recursos/71/7129118416da1b9fe8e0-1-public-base-man_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/public_sector/3-public-base-screen@1x.png.webp",
+      "archivo": "recursos/16/162d4aeb533f529da3d7-3-public-base-screen_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/public_sector/3-public-base-screen@2x.png.webp",
+      "archivo": "recursos/42/425d27578019c2b53f9b-3-public-base-screen_2x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/public_sector/3-public-base-screen@1x.png.webp",
+      "archivo": "recursos/81/81e96232d869b0b64825-3-public-base-screen_1x.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css?delta=1&language=en&theme=creatio&include=eJxtkuFuxSAIhV-oto9kEFmvm0ojNFn39KPXpVmiv5TvAB6CmEHk2gIILdjvhURgJ1mQG23I5eBKVWXFRqCJnStUTxegVmo9KbbzgLzCJ3x3ULkVyOnHmvaiLTCraIPjIZTJGqkDtJKYuA4K-pzq14h77Bvts6oDmpozGYRGGZSi1QmfDWnMUPFhn9FIhWd86s94gVS9mECjv1ummGAmCKFOZhKXarzPQfCc4wP3zAHyE74I4r2hv9BanLaB6x_4sDVZhjAmyN3VeyTZRrTqy55c5BKl8v4wv_Th3jE",
+      "archivo": "recursos/71/71b0f63e2819eb6c2716-css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_uBAD6OzsfzGQBYw67ZPccoP2TW4uz0zRRXr2veFVw24.css?delta=2&language=en&theme=creatio&include=eJxtkuFuxSAIhV-oto9kEFmvm0ojNFn39KPXpVmiv5TvAB6CmEHk2gIILdjvhURgJ1mQG23I5eBKVWXFRqCJnStUTxegVmo9KbbzgLzCJ3x3ULkVyOnHmvaiLTCraIPjIZTJGqkDtJKYuA4K-pzq14h77Bvts6oDmpozGYRGGZSi1QmfDWnMUPFhn9FIhWd86s94gVS9mECjv1ummGAmCKFOZhKXarzPQfCc4wP3zAHyE74I4r2hv9BanLaB6x_4sDVZhjAmyN3VeyTZRrTqy55c5BKl8v4wv_Th3jE",
+      "archivo": "recursos/6e/6ebc2b0158a6ec951cd1-css_uBAD6OzsfzGQBYw67ZPccoP2TW4uz0zRRXr2veFVw24.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css?delta=4&language=en&theme=creatio&include=eJxtkuFuxSAIhV-oto9kEFmvm0ojNFn39KPXpVmiv5TvAB6CmEHk2gIILdjvhURgJ1mQG23I5eBKVWXFRqCJnStUTxegVmo9KbbzgLzCJ3x3ULkVyOnHmvaiLTCraIPjIZTJGqkDtJKYuA4K-pzq14h77Bvts6oDmpozGYRGGZSi1QmfDWnMUPFhn9FIhWd86s94gVS9mECjv1ummGAmCKFOZhKXarzPQfCc4wP3zAHyE74I4r2hv9BanLaB6x_4sDVZhjAmyN3VeyTZRrTqy55c5BKl8v4wv_Th3jE",
+      "archivo": "recursos/8d/8d1159e591a13b31a67f-css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_baPiLC_4wthaxrJg2-UQwcmb1ljjYvKrj0Y4SnuE3Yo.css?delta=6&language=en&theme=creatio&include=eJxtkuFuxSAIhV-oto9kEFmvm0ojNFn39KPXpVmiv5TvAB6CmEHk2gIILdjvhURgJ1mQG23I5eBKVWXFRqCJnStUTxegVmo9KbbzgLzCJ3x3ULkVyOnHmvaiLTCraIPjIZTJGqkDtJKYuA4K-pzq14h77Bvts6oDmpozGYRGGZSi1QmfDWnMUPFhn9FIhWd86s94gVS9mECjv1ummGAmCKFOZhKXarzPQfCc4wP3zAHyE74I4r2hv9BanLaB6x_4sDVZhjAmyN3VeyTZRrTqy55c5BKl8v4wv_Th3jE",
+      "archivo": "recursos/d6/d619ae6021c98b1bc9ec-css_baPiLC_4wthaxrJg2-UQwcmb1ljjYvKrj0Y4SnuE3Yo.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css?delta=7&language=en&theme=creatio&include=eJxtkuFuxSAIhV-oto9kEFmvm0ojNFn39KPXpVmiv5TvAB6CmEHk2gIILdjvhURgJ1mQG23I5eBKVWXFRqCJnStUTxegVmo9KbbzgLzCJ3x3ULkVyOnHmvaiLTCraIPjIZTJGqkDtJKYuA4K-pzq14h77Bvts6oDmpozGYRGGZSi1QmfDWnMUPFhn9FIhWd86s94gVS9mECjv1ummGAmCKFOZhKXarzPQfCc4wP3zAHyE74I4r2hv9BanLaB6x_4sDVZhjAmyN3VeyTZRrTqy55c5BKl8v4wv_Th3jE",
+      "archivo": "recursos/77/7762c614eaeb35ba463f-css_H9N9wWY7jahw2rM-3ZA3N9JApdWin1DAATxROQ4saX8.css"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/energy-and-utilities/main-x1.png.webp",
+      "archivo": "recursos/ff/ffdc194670c57ca83a03-main-x1.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/energy-and-utilities/main-x2.png.webp",
+      "archivo": "recursos/fa/faef519a30770df93ef0-main-x2.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/energy-and-utilities/main-x1.png.webp",
+      "archivo": "recursos/0a/0ac6b5b24f0cac3f2a5f-main-x1.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/energy-and-utilities/main-x2.png.webp",
+      "archivo": "recursos/ef/eff540472cb0c428d413-main-x2.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/energy-and-utilities/1-x1.png.webp",
+      "archivo": "recursos/e4/e47c2bcd0378ce509e23-1-x1.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile_2x/public/pages/industries/energy-and-utilities/1-x2.png.webp",
+      "archivo": "recursos/31/310e2c0e3bc3b47daf09-1-x2.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/energy-and-utilities/1-x1.png.webp",
+      "archivo": "recursos/a9/a9c3bc47ee8bf86714a4-1-x1.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/webp/public/pages/industries/energy-and-utilities/1-x2.png.webp",
+      "archivo": "recursos/30/30059a0402c2850bf5d0-1-x2.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/s3/files/styles/mobile/public/pages/industries/energy-and-utilities/2-x1.png.webp",
+      "archivo": "recursos/25/256233047b27e9197495-2-x1.png.webp"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css?delta=1&language=en&theme=creatio&include=eJxtUu1uxSAIfaHaPpJBZL1uKo3QZN3Tj16XZon-Us4HHkXMIHJtAYQW7PtCIrCTLMiNNuRycKWqsmIj0MTOFaqnC1ArtS6K7Twgr_AJ3x2o3Ark9GNNu2kLzCra4PAl1QelTNZMHaDZYuKRQZ9T_RrhXvtG-8x1QFNLJwPRKINSNJ_w2ZBGhYoP-wyNVHiGT_MZXiBVL0bQmO-mKSaYEUKokzuJSzXe60PsmQPkp3wRxHsgf6WpT3vw6x_wYVMxhTAmyD3AO71sI7Tqy45d5BKl8v4fv4a415c",
+      "archivo": "recursos/71/71b0f63e2819eb6c2716-css_Ub97F6CArqx4yHnFpHCy8lHs27oO87pMAaPdmW9YX_0.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_095hb_26_dII1avjIWgpLP5MmyfIMRDtpj8xjQC13Y4.css?delta=2&language=en&theme=creatio&include=eJxtUu1uxSAIfaHaPpJBZL1uKo3QZN3Tj16XZon-Us4HHkXMIHJtAYQW7PtCIrCTLMiNNuRycKWqsmIj0MTOFaqnC1ArtS6K7Twgr_AJ3x2o3Ark9GNNu2kLzCra4PAl1QelTNZMHaDZYuKRQZ9T_RrhXvtG-8x1QFNLJwPRKINSNJ_w2ZBGhYoP-wyNVHiGT_MZXiBVL0bQmO-mKSaYEUKokzuJSzXe60PsmQPkp3wRxHsgf6WpT3vw6x_wYVMxhTAmyD3AO71sI7Tqy45d5BKl8v4fv4a415c",
+      "archivo": "recursos/ce/ce292442869917c8a149-css_095hb_26_dII1avjIWgpLP5MmyfIMRDtpj8xjQC13Y4.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css?delta=4&language=en&theme=creatio&include=eJxtUu1uxSAIfaHaPpJBZL1uKo3QZN3Tj16XZon-Us4HHkXMIHJtAYQW7PtCIrCTLMiNNuRycKWqsmIj0MTOFaqnC1ArtS6K7Twgr_AJ3x2o3Ark9GNNu2kLzCra4PAl1QelTNZMHaDZYuKRQZ9T_RrhXvtG-8x1QFNLJwPRKINSNJ_w2ZBGhYoP-wyNVHiGT_MZXiBVL0bQmO-mKSaYEUKokzuJSzXe60PsmQPkp3wRxHsgf6WpT3vw6x_wYVMxhTAmyD3AO71sI7Tqy45d5BKl8v4fv4a415c",
+      "archivo": "recursos/8d/8d1159e591a13b31a67f-css_tYPyyp8rto6vSrOLsMscEN1KGYnBopZwvxtf5If2BDY.css"
+    },
+    {
+      "url": "https://www.creatio.com/sites/default/files/css/css_baPiLC_4wthaxrJg2-UQwcmb1ljjYvKrj0Y4SnuE3Yo.css?delta=6&language=en&theme=creatio&include=eJxtUu1uxSAIfaHaPpJBZL1uKo3QZN3Tj16XZon-Us4HHkXMIHJtAYQW7PtCIrCTLMiNNuRycKWqsmIj0MTOFaqnC1ArtS6K7Twgr_AJ3x2o3Ark9GNNu2kLzCra4PAl1QelTNZMHaDZYuKRQZ9T_RrhXvtG-8x1QFNLJwPRKINSNJ_w2ZBGhYoP-wyNVHiGT_MZXiBVL0bQmO-mKSaYEUKokzuJSzXe60PsmQPkp3wRxHsgf6WpT3vw6x_wYVMxhTAmyD3AO71sI7Tqy45d5BKl8v4fv4a415c",
+      "archivo": "recursos/d6/d619ae6021c98b1bc9ec-css_baPiLC_4wthaxrJg2-UQwcmb1ljjYvKrj0Y4SnuE3Yo.css"
+    }
+  ],
+  "recursos_externos_omitidos": [
+    "https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.1/dist/fancybox/fancybox.css",
+    "https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.1/dist/fancybox/fancybox.umd.js",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/amd-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/banco-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/bsn-sport-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/coca-cola-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/colgate-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/ent-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/herheys-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/metlife-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/otp-bank-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/raiffeisne-bank-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/societe-generale-247.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-01/university-of-strathclyde-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-02/dunapack-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2024-09/pittsburghpa.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2025-10/Auchan_600x600_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2025-10/City_of_Boston_600x600_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2025-10/Howdens_600x600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2025-10/Nasdaq_600x600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/2025-11/banco-int-600.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/customers/customers-menu-title.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/25-country.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-01@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-01@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-02@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-02@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-03@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-03@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-04@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-04@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-05@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-05@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-06@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-06@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-07@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-07@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-08@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-08@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-09@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-09@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-10@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-10@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-11@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-11@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-13@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-13@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-14@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-14@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-15@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-15@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-16@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-16@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-17@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-17@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-19@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-19@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-21@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-21@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-22@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-22@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-23@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-23@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-24@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/employees/employee-24@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-01@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-01@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-02@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-02@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-03@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-03@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-04@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-04@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-05@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-05@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-06@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-06@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-07@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-07@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-08@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-08@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-09@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-09@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-10@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-10@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-11@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-11@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-12@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-12@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-13@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-13@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-14@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-14@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-15@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-15@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-16@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-16@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-17@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-17@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-18@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-18@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-19@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-19@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-20@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-20@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-21@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-21@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-22@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-22@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-23@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-23@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-24@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-24@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-25@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-25@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-26@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-26@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-27@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partner-27@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/main-menu/v3/partners/partners-text.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/OG-Creatio-Customer.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/ai/ai-trust-and-governance/footer-CTA-screen-1@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/ai/ai-trust-and-governance/footer-CTA-screen-1@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/ai/ai-trust-and-governance/footer-CTA-screen-3@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/ai/ai-trust-and-governance/footer-CTA-screen-3@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/crm/03-nucleus-logo.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/Dan-Rafferty@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/Dan-Rafferty@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/Gonzalo_Cortes-1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/Gonzalo_Cortes_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/Jay-Greenspan@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/Jay-Greenspan@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/Michal-Wielicki@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/Michal-Wielicki@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/OG-Creatio-Customer-success.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/Steve_Hunter_1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/Steve_Hunter_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/americar-logo-1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/americar-logo-2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/boston-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/boston-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/customer-case-hero.mp4",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/lohmann-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/lohmann-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/purplebricks-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/purplebricks-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/sureserve-logo-1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/customer-success/sureserve-logo-2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/awards/forrester-bg-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/awards/forrester-bg-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/awards/forrester-wave-x1.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/awards/forrester-wave-x2.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/awards/gartner-bg-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/awards/gartner-bg-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/1.mp4",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/2.mp4",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/altro.mp4",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/boston_city_preview.mp4",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/ent_preview.mp4",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/lohman_prev.mp4",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/pittsburgh_preview.mp4",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/purplebricks_preview.mp4",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/front/clients/suresvile_preview.mp4",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/ad_production-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/ad_production-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/customer_service-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/customer_service-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/employee_experience-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/employee_experience-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/main-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/main-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/marketing-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/marketing-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/og.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/partners_marketplace-x1.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/partners_marketplace-x2.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/project_management-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/project_management-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/risk_compliance-person-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/risk_compliance-person-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/risk_compliance-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/risk_compliance-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/sales-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/sales-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/сustomer_onboarding-person-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/сustomer_onboarding-person-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/сustomer_onboarding-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/advertising/сustomer_onboarding-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/book@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/book@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/business_services/12-bglobal-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/business_services/12-bglobal-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/01-cpg-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/01-cpg-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/03-cpg-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/03-cpg-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/04-cpg-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/04-cpg-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/05-cpg-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/05-cpg-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/06-cpg-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/06-cpg-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/08-cpg-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/08-cpg-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/09-cpg-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/09-cpg-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/10-cpg-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/10-cpg-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/12-cpg-background.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/12-cpg-background@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/12-highland-logo@1x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/12-highland-logo@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/4-cpg-trade-manager@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/4-cpg-trade-manager@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/7-cpg-hershey-cta@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/7-cpg-hershey-cta@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/9-cpg-risk-officier@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/9-cpg-risk-officier@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/cpg/OG-CPG.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/credit_union/12-technologyadvisors-logo@1x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/credit_union/12-technologyadvisors-logo@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/1-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/1-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/2-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/2-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/3-person-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/3-person-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/3-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/3-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/4-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/4-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/5-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/5-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/6-person-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/6-person-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/6-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/6-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/7-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/7-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/companies/dtek-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/companies/dtek-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/companies/edp-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/companies/edp-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/companies/pln-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/companies/pln-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/companies/respectenergy-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/companies/respectenergy-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/main-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/main-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/og.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/partners_marketplace-x1.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/energy-and-utilities/partners_marketplace-x2.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/event.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/event@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/insights-new-en@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/insights-new-en@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/insurance/v2/03-seo-benefit-client-mgnt.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/insurance/v2/03-seo-benefit-compliance.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/insurance/v2/03-seo-benefit-customer-service.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/insurance/v2/03-seo-benefit-dushboard.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/insurance/v2/03-seo-benefit-sales-tracking.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/insurance/v2/03-seo-benefit-workflow.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/manufacturing/13-blytheco-logo.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/manufacturing/13-blytheco-logo@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/manufacturing/13-qualysoft-logo.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/manufacturing/13-qualysoft-logo@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/manufacturing/13-reply-logo.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/manufacturing/13-reply-logo@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/manufacturing/13-tata-logo.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/manufacturing/13-tata-logo@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/1-medisca-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/1-medisca-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/1-pharma-screen-base@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/1-pharma-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/1-vetoquinol-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/1-vetoquinol-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/1-yuriapharm-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/1-yuriapharm-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-medisca-img@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-medisca-img@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-medisca-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-medisca-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-vetoquinol-img@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-vetoquinol-img@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-vetoquinol-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-vetoquinol-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-yiriapharm-img@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-yiriapharm-img@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-yuriafarm-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/10-yuriafarm-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/11-pharma-background@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/11-pharma-background@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/11-process-first-logo@1x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/11-process-first-logo@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/3-pharma-screen-base@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/3-pharma-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/4-pharma-screen-base@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/4-pharma-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/4-pharma-women@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/4-pharma-women@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/5-pharma-screen-base@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/5-pharma-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/6-pharma-screen-base@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/6-pharma-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/7-pharma-screen-base@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/7-pharma-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/8-pharma-screen-base@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/8-pharma-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/8-pharma-women@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/8-pharma-women@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/9-pharma-screen-base@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/9-pharma-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/pharma/OG-Creatio-Pharma.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/podcasts@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/podcasts@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/1-public-base-man@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/1-public-base-man@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/10-public-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/10-public-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/11-public-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/11-public-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/12-public-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/12-public-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/12-public-hr@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/12-public-hr@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/13-keen-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/13-keen-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/13-misto-tech-logo-upd-1x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/13-misto-tech-logo-upd-2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/13-public-background@1x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/13-public-background@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/3-public-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/3-public-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/4-public-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/4-public-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/5-public-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/5-public-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/5-public-grant-manager@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/5-public-grant-manager@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/6-public-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/6-public-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/7-public-netivei-cta@1x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/7-public-netivei-cta@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/8-public-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/8-public-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/8-public-buying-manager@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/8-public-buying-manager@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/9-public-base-screen@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/9-public-base-screen@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/public_sector/OG-Creatio-Public-sector.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/01-retail-man@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/01-retail-man@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/03-retail-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/03-retail-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/04-retail-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/04-retail-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/05-retail-man@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/05-retail-man@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/05-retail-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/05-retail-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/06-retail-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/06-retail-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/07-retail-man@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/07-retail-man@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/07-retail-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/07-retail-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/08-retail-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/08-retail-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/09-retail-model@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/09-retail-model@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/09-retail-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/09-retail-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/10-retail-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/10-retail-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/12-proceed-logo@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/12-proceed-logo@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/12-retail-background@1x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/12-retail-background@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/retail/OG-Creatio-Retail.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/technology/13-optingo-logo1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/technology/13-optingo-logo2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/1-telecom-model@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/1-telecom-model@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/10-bmb@1x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/10-bmb@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/10-mitra-logo.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/10-mitra-logo@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/10-telecom-background.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/10-telecom-background@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/3-telecom-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/3-telecom-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/4-telecom-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/4-telecom-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/5-telecom-man@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/5-telecom-man@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/5-telecom-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/5-telecom-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/6-telecom-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/6-telecom-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/7-telecom-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/7-telecom-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/8-telecom-model@1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/8-telecom-model@2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/8-telecom-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/8-telecom-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/9-telecom-screen-base@1x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/9-telecom-screen-base@2x_0.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/telecom/OG-Creatio-Telecom.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/transportation/13-matrix-logo.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/transportation/13-matrix-logo@2x.jpg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-asset-management.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-branch-manager.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-business-analyst.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-compliance-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-compliance-officer.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-corporate-services-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-customer-experience-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-customer-service-representative.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-customer-success-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-director-operations.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-event-managment-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-field-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-front-office-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-grants-management-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-hr-officer.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-lending-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-licensing-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-loan-officer.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-marketing-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-marketing-manager.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-merchandise-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-merchandise-manager.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-order-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-pmo.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-procurement-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-production-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-project-manager-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-rd-manager.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-relationships-manager.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-sales-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-supply-chain-management-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-supply-icon.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/industries/workflow-underwriter.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/landings/manufacturing-software/cta-1-x1.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/landings/manufacturing-software/cta-1-x2.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/products/studio/footer-CTA-screen-2_1x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/products/studio/footer-CTA-screen-2_2x.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/recognition/star-4.5.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/pages/recognition/star-5.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/styles/customer/public/2024-09/1-united.png",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/workflow-map/icons/ad-production.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/workflow-map/icons/compliance.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/workflow-map/icons/corporate-service.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/workflow-map/icons/customer-service.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/workflow-map/icons/marketing.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/workflow-map/icons/onboarding.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/workflow-map/icons/project.svg",
+    "https://d3a7ykdi65m4cy.cloudfront.net/en/s3fs-public/workflow-map/icons/sales.svg",
+    "https://fonts.googleapis.com/css2?family=Courier+Prime:wght@400;700&family=Montserrat:wght@300;400;500;600;700;800&family=Open+Sans:wght@400;600;700&display=swap",
+    "https://youtu.be/5jC6sEScfds",
+    "https://youtu.be/AKVkPgY4Yco",
+    "https://youtu.be/QjU5WkBbinA",
+    "https://youtu.be/SCXonI0jAYo",
+    "https://youtu.be/UO6eJncGQuk",
+    "https://youtu.be/bJFSFiG3dL4",
+    "https://youtu.be/m3C6wRND_zU",
+    "https://youtu.be/nEMtA4CeAmY",
+    "https://youtu.be/woCG1IgdbVg"
+  ],
+  "errores": [],
+  "bytes": 18821244
+}
