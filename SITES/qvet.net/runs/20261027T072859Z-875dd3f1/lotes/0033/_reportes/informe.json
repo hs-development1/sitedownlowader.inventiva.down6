@@ -1,0 +1,36 @@
+{
+  "sitio": "https://qvet.net/",
+  "fecha": "2026-10-27T07:56:37.285315+00:00",
+  "paginas": [
+    "https://qvet.net/pt/2023/04/26/",
+    "https://qvet.net/pt/2023/06/07/",
+    "https://qvet.net/pt/2025/11/06/",
+    "https://qvet.net/pt/2024/02/22/",
+    "https://qvet.net/pt/2024/01/30/",
+    "https://qvet.net/pt/categoria/noticias/page/2/",
+    "https://qvet.net/pt/categoria/software/page/2/",
+    "https://qvet.net/pt/2024/04/24/",
+    "https://qvet.net/pt/2023/02/10/",
+    "https://qvet.net/pt/2023/09/26/"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 0,
+  "fotografias_descargadas": 0,
+  "bytes_fotografias": 0,
+  "recursos_pendientes": 0,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 0,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": false,
+  "advertencia_navegador": "",
+  "recursos": [],
+  "recursos_externos_omitidos": [
+    "https://www.google.com/recaptcha/api.js?render=explicit&ver=4.0.4",
+    "https://www.googletagmanager.com/gtag/js?id=GT-K8D2BQN&"
+  ],
+  "errores": [],
+  "bytes": 820045
+}
