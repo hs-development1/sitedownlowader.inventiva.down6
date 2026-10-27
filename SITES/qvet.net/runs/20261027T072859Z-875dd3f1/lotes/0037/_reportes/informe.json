@@ -1,0 +1,36 @@
+{
+  "sitio": "https://qvet.net/",
+  "fecha": "2026-10-27T07:59:12.881634+00:00",
+  "paginas": [
+    "https://qvet.net/pt/tag/sector-veterinario/page/2/",
+    "https://qvet.net/pt/tag/sector-veterinario/page/3/",
+    "https://qvet.net/pt/2023/06/23/",
+    "https://qvet.net/pt/2023/05/31/",
+    "https://qvet.net/pt/2024/02/26/",
+    "https://qvet.net/pt/2025/05/20/",
+    "https://qvet.net/2023/07/05/",
+    "https://qvet.net/2025/12/01/",
+    "https://qvet.net/2023/08/28/",
+    "https://qvet.net/2023/11/21/"
+  ],
+  "paginas_guardadas": 10,
+  "recursos_descargados": 0,
+  "fotografias_descargadas": 0,
+  "bytes_fotografias": 0,
+  "recursos_pendientes": 0,
+  "presupuesto_recursos_bytes": 110100480,
+  "recursos_bytes": 0,
+  "maximo_paginas": 10,
+  "paginas_pendientes": 0,
+  "fichas_inmobiliarias": 0,
+  "limite_alcanzado": false,
+  "modo_navegador": false,
+  "advertencia_navegador": "",
+  "recursos": [],
+  "recursos_externos_omitidos": [
+    "https://www.google.com/recaptcha/api.js?render=explicit&ver=4.0.4",
+    "https://www.googletagmanager.com/gtag/js?id=GT-K8D2BQN&"
+  ],
+  "errores": [],
+  "bytes": 787686
+}
